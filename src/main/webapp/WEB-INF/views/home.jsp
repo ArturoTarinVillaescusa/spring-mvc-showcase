@@ -42,13 +42,6 @@
                  <p>
                         I am adding this extra line
                  </p>
-<p>
-This is the second line to be added .... AND .....
-</p>
-
-<p>
-MODIFICACIÓN TRAS LOS CAMBIOS .
-</p>
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
