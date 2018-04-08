@@ -47,7 +47,7 @@ This is the second line to be added .... AND .....
 </p>
 
 <p>
-MODIFICACIÓN TRAS LOS CAMBIOS
+MODIFICACIÓN TRAS LOS CAMBIOS .
 </p>
 		<ul>
 			<li>
