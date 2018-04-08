@@ -45,6 +45,10 @@
 <p>
 This is the second line to be added
 </p>
+
+<p>
+MODIFICACIÓN TRAS LOS CAMBIOS
+</p>
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
