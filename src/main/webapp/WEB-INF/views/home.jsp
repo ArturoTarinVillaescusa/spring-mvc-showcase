@@ -40,8 +40,15 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
-                        I am adding this extra line. ARTURO TARIN VILLAESCUSA
+                        I am adding this extra line
                  </p>
+                 <p>
+                        This is the second line to be added
+                 </p>
+                 <p>
+                        MODIFICACIÓN TRAS LOS CAMBIOS
+                 </p>
+	    
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
